@@ -1,0 +1,23 @@
+[
+  {
+    "userName": "shamanth",
+    "emailID": "shetty@abc.com",
+    "password": "$2b$10$5DHeU5TbOAzYig0DzArzduZB9951mMXuClr9AbRVA0S96kvJ9dKh.",
+    "preferences": [
+      "movies",
+      "comics",
+      "sports"
+    ]
+  },
+  {
+    "userName": "Deeksha",
+    "emailID": "Deeksha@abc.com",
+    "password": "$2b$10$DbdcrdJ.GkWgwbYqbtgmruUIF5a99k91kn5Esq4pPor0qvZNgBIwO",
+    "preferences": [
+      "movies",
+      "politics",
+      "bussiness",
+      "technology"
+    ]
+  }
+]
